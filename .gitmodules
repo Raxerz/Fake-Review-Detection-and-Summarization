@@ -1,3 +1,6 @@
 [submodule "Fake-Review-Detection-and-Summarization-Site"]
 	path = Fake-Review-Detection-and-Summarization-Site
 	url = https://github.com/Raxerz/Fake-Review-Detection-and-Summarization-Site
+[submodule "Fake-Review-Detection-and-Summarization-Server"]
+	path = Fake-Review-Detection-and-Summarization-Server
+	url = https://github.com/Raxerz/Fake-Review-Detection-and-Summarization-Server
