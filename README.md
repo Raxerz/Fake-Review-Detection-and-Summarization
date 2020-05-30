@@ -2,6 +2,8 @@
 
 This is the main project for "Summarization and opinion spam detection of online reviews"
 
+## See it in action here : https://product-review-analysis.herokuapp.com/
+
 ## Main window
 
 ![alt text](https://github.com/Raxerz/Fake-Review-Detection-and-Summarization/blob/master/screenshots/Screenshot%202020-05-30%20at%202.22.27%20PM.png)
