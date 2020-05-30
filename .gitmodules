@@ -4,3 +4,6 @@
 [submodule "Fake-Review-Detection-and-Summarization-Server"]
 	path = Fake-Review-Detection-and-Summarization-Server
 	url = https://github.com/Raxerz/Fake-Review-Detection-and-Summarization-Server
+[submodule "Fake-Review-Detection-and-Summarization-ML-Src"]
+	path = Fake-Review-Detection-and-Summarization-ML-Src
+	url = https://github.com/Raxerz/Fake-Review-Detection-and-Summarization-ML-Src
